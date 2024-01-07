@@ -1,0 +1,36 @@
+.table{
+    padding:30px;
+    background-color:black;
+    color:white;
+    text-align: justify;
+}
+
+table {
+    
+    width:100%;
+   text-align: center;
+   background-color: black;
+   color:white;
+ 
+   /*border-collapse: collapse;*/
+
+
+}
+
+th{
+    font-size: 20px;
+    padding:15px;
+    background-color: blue;
+}
+td{
+    font-size: 20px;
+    padding:15px;
+}
+tr:hover{
+    background-color: aqua;
+}
+tr:nth-child(even){
+    
+
+    background-color: pink;
+}
